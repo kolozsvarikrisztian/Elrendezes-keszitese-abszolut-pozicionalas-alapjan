@@ -1,0 +1,9 @@
+﻿<Application x:Class="Elrendezés_készítése_abszolút_pozícionálás_alapján.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Elrendezés_készítése_abszolút_pozícionálás_alapján"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
